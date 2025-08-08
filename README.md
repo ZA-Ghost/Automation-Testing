@@ -14,7 +14,8 @@ This repository (and others linked to it) may contain:
 
 - Manual Test Cases & Test Plans (Excel/Markdown format)
 - Automation Projects using:
-  - Selenium (Java / Python / C#)
+  - Selenium (Java)
+  - Playwright (Java)
   - TestNG / JUnit
   - POM (Page Object Model)
   - Version Control (Git)
