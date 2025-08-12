@@ -1,0 +1,10 @@
+reports\ReportManager.class
+config\BrowserConfig.class
+pages\ProductsPage.class
+pages\LoginPage.class
+helper\TimeHelper.class
+pages\CartPage.class
+config\Config.class
+pages\CheckoutPage.class
+pages\CheckoutOverviewPage.class
+tests\OnlineOrderTest.class
